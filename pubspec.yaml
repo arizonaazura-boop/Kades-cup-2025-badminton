@@ -1,17 +1,13 @@
-name: kades_cup_scoreboard
-description: Kades Cup 2025 Adan-Adan - Service Point System (30)
+name: kades_cup_2025
+description: Kades Cup 2025 - Service Point Scoreboard
 publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
+  sdk: ">=2.17.0 <4.0.0"
 
 dependencies:
   flutter:
-    sdk: flutter
-
-dev_dependencies:
-  flutter_test:
     sdk: flutter
 
 flutter:

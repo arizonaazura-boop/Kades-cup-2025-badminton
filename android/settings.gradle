@@ -1,0 +1,2 @@
+rootProject.name = 'kades_cup_2025'
+include ':app'
